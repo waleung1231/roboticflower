@@ -57,7 +57,8 @@ If you're already in your virtual environment directory file, you can just do:
 source bin/activate
 ```
 5. Install Dependencies/Libraries
-6. We've already specified the required [libraries](#setting-up-a-virtual-environment-on-raspberry-pi)
+We've specified the required libraries [here](#setting-up-a-virtual-environment-on-raspberry-pi).
+Install these within your virtual environment.
 
 
 
