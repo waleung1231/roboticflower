@@ -2,6 +2,14 @@
 
 This is a robotic flower that wilts :skull: or blooms :cherry_blossom: depending on smile detection :smiley: using a Haar-Cascade alogrithm that works well with facial detection. This is a machine learning and art interactive project under the Halicioglu Data Science Institute (HDSI) and the Institute for Learning-Enabled Optimization at Scale (TILOS). We hope this is a project enjoyable for all to interact with!
 
+Contributors:
+Adrian Apsay - https://www.linkedin.com/in/adrianapsay/
+Wan-Rong (Emma) Leung - https://www.linkedin.com/in/wan-rong-leung-228650271/
+Ethan Flores - https://www.linkedin.com/in/etflores1/
+
+Head (K-14 Director):
+Saura Naderi - snaderi@ucsd.edu
+
 ## How Does It Work?
 
 The concept of the project is fairly simple - honestly straightfoward - you look at
