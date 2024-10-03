@@ -12,7 +12,9 @@ Saura Naderi - snaderi@ucsd.edu
 
 ## How Does It Work?
 
-The concept of the project is fairly simple - honestly straightfoward - you look at
+**Note**: Before getting this project to work, please read the [requirements](#requirements) below.
+
+The concept of the project is fairly simple - honestly straightfoward - 
 
 ## Requirements (if you want to have your own robotic flower):
 ### Hardware
@@ -70,7 +72,7 @@ Install these within your virtual environment.
 6. Retrieve Source Code <br>
 Run the ``git clone`` command in terminal using this repository.
 7. Running the Code in Virtual Environment <br>
-Run the command ``python code.py`` (or whatever your .py file is named)
+Run the command ``python code.py`` (or whatever your .py file is named).
 
 
 
