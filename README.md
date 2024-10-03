@@ -14,7 +14,7 @@ Saura Naderi - snaderi@ucsd.edu
 
 **Note**: Before getting this project to work, please read the [requirements](#requirements) below.
 
-The concept of the project is fairly simple - honestly straightfoward - 
+The concept of the project is fairly simple - honestly straightfoward - have your Raspberry Pi camera set up with **good** lighting. If one person is in the frame, smile. The facial recognition program will create a green box around your face, signifying that you are smiling. The program will have a red box around your face if it doesn't detect you smiling. If you are smiling, but a red box is still present, be sure to position your face to the camera more clearly (you might have to adjust lighting or the camera angle). When the box is green, the flower will bloom. When the box is red, the flower will wilt. **The key takeaway is: KEEP SMILING!!!**
 
 ## Requirements (if you want to have your own robotic flower):
 ### Hardware
@@ -51,7 +51,7 @@ This will allow you to create your virtual enviroments.
 ```bash
 sudo apt install python3 python3-venv
 ```
-3. Create your Virtual Environment <br>
+3. Create and Navigating to Your Virtual Environment <br>
 Navigate to the directory that you want your project to me located in.
 ```bash
 cd/path/to/project
@@ -72,7 +72,13 @@ Install these within your virtual environment.
 6. Retrieve Source Code <br>
 Run the ``git clone`` command in terminal using this repository.
 7. Running the Code in Virtual Environment <br>
-Run the command ``python code.py`` (or whatever your .py file is named).
+Run the command ``python code.py`` (or whatever your .py file is named). <br>
+**Note**: If you want to terminate your current run, you would have to close the terminal, then <br>
+reopen and navigate to where your virtual environment is located. Then, run ``source bin/activate``. <br>
+We apologize as we haven't implemented a fix for this!!!
+
+We hope you enjoy our project as we had a lot of fun implementing, experimenting, and playing around with <br>
+it.
 
 
 
