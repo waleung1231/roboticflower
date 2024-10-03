@@ -18,7 +18,7 @@ with the code due to constraints and limitations of different robotic arms)
 
 ### Required Libraries/Frameworks
 1. Python <br>
-```pip install python``` OR <br>
+``pip install python`` OR <br>
 ``pip install python3`` (dependent on your OS)
 2.  OpenCV <br>
 ``pip install opencv-python``
@@ -30,11 +30,17 @@ with the code due to constraints and limitations of different robotic arms)
 Before implementing, there are some setup requirements necessary for the code to run properly, specifically a **virtual environment** for your Raspberry Pi Board.
 
 ### Setting Up a Virtual Environment on Raspberry Pi
-1.    It's important to ensure that your Raspberry Pi's package list is up-to-date:
+(do this within the terminal)
+1.    Make sure your Raspberry Pi's package list is up-to-date:
    ```bash
    sudo apt update
    sudo apt upgrade
-2. 
+   ```
+2. Install Python3 and venv <br>
+This will allow you to create your virtual enviroments.
+```bash
+sudo apt install python3 python3-venv
+```
 
 
 
