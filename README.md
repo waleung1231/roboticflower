@@ -10,7 +10,8 @@ The concept of the project is fairly simple - honestly straightfoward - you look
 ### Hardware
 1. Raspberry Pi 3 Board or Above
 2. Raspberry Pi Camera V2 or Above
-3. HiWonder xArm 1S** (any other robotic arm might not translate well with the code due to constraints and limitations of different robotic arms)
+3. HiWonder xArm 1S** (any other robotic arm might not translate well <br>
+with the code due to constraints and limitations of different robotic arms)
 4. Monitor (of any kind that display output)
 5. Mouse and Keyboard (optional)
 6. USB Micro B Cable (to connect xArm to Raspberry Pi)
