@@ -4,12 +4,12 @@ This is a robotic flower that wilts :skull: or blooms :cherry_blossom: depending
 
 
 # How Does It Work?
-----
+
 The concept of the project is fairly simple - honestly straightfoward - you look at
 
 # Requirements (if you want to have your own robotic flower):
-## Hardware
+### Hardware
 1. 
-## Required Libraries/Frameworks
----
+### Required Libraries/Frameworks
+
 
