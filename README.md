@@ -67,7 +67,10 @@ source bin/activate
 5. Install Dependencies/Libraries
 We've specified the required libraries [here](#setting-up-a-virtual-environment-on-raspberry-pi).
 Install these within your virtual environment.
-6. Download 
+6. Retrieve Source Code
+Run the ``git clone`` command in terminal using this repository.
+7. Running the Code in Virtual Environment
+Run the command ``python code.py`` (or whatever your .py file is named)
 
 
 
