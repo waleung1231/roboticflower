@@ -17,6 +17,7 @@ The concept of the project is fairly simple - honestly straightfoward - you look
 
 ### Required Libraries/Frameworks
 1. OpenCV
+<br>
 ``pip install opencv-python``
-2. 
+3. 
 
