@@ -16,7 +16,10 @@ The concept of the project is fairly simple - honestly straightfoward - you look
 6. USB Micro B Cable (to connect xArm to Raspberry Pi)
 
 ### Required Libraries/Frameworks
-1. OpenCV <br>
+1. Python <br>
+``pip install python`` OR <br>
+``pip install python3`` (dependent on your OS)
+3.  OpenCV <br>
 ``pip install opencv-python``
-3. 
+
 
