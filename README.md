@@ -54,8 +54,10 @@ source myenv/bin/activate
 ```
 If you're already in your virtual environment directory file, you can just do:
 ```bash
-source /bin/activate
+source bin/activate
 ```
+5. Install Dependencies/Libraries
+6. We've already specified the required [libraries](#setting-up-a-virtual-environment-on-raspberry-pi)
 
 
 
