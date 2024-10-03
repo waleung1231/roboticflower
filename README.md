@@ -41,6 +41,21 @@ This will allow you to create your virtual enviroments.
 ```bash
 sudo apt install python3 python3-venv
 ```
+3. Create your Virtual Environment
+Navigate to the directory that you want your project to me located in.
+```bash
+cd/path/to/project
+python3 -m venv myenv
+```
+4. Activate the Virtual Environment
+Run the command:
+```bash
+source myenv/bin/activate
+```
+If you're already in your virtual environment directory file, you can just do:
+```bash
+source /bin/activate
+```
 
 
 
