@@ -27,7 +27,14 @@ with the code due to constraints and limitations of different robotic arms)
 **Note**: Run these installs via the terminal, then import these packages on the text editor you are utilizing.
 
 ## How to Run The Code
+Before implementing, there are some setup requirements necessary for the code to run properly, specifically a **virtual environment** for your Raspberry Pi Board.
 
+### Setting Up a Virtual Environment on Raspberry Pi
+1.    It's important to ensure that your Raspberry Pi's package list is up-to-date:
+   ```bash
+   sudo apt update
+   sudo apt upgrade
+2. 
 
 
 
