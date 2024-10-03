@@ -49,13 +49,13 @@ This will allow you to create your virtual enviroments.
 ```bash
 sudo apt install python3 python3-venv
 ```
-3. Create your Virtual Environment
+3. Create your Virtual Environment <br>
 Navigate to the directory that you want your project to me located in.
 ```bash
 cd/path/to/project
 python3 -m venv myenv
 ```
-4. Activate the Virtual Environment
+4. Activate the Virtual Environment <br>
 Run the command:
 ```bash
 source myenv/bin/activate
@@ -64,12 +64,12 @@ If you're already in your virtual environment directory file, you can just do:
 ```bash
 source bin/activate
 ```
-5. Install Dependencies/Libraries
+5. Install Dependencies/Libraries <br>
 We've specified the required libraries [here](#setting-up-a-virtual-environment-on-raspberry-pi).
 Install these within your virtual environment.
-6. Retrieve Source Code
+6. Retrieve Source Code <br>
 Run the ``git clone`` command in terminal using this repository.
-7. Running the Code in Virtual Environment
+7. Running the Code in Virtual Environment <br>
 Run the command ``python code.py`` (or whatever your .py file is named)
 
 
