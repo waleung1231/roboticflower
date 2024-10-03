@@ -47,23 +47,23 @@ Before implementing, there are some setup requirements necessary for the code to
 
 ### Setting Up a Virtual Environment on Raspberry Pi
 (do this within the terminal)
-1.    Make sure your Raspberry Pi's package list is up-to-date:
+1.    **Make sure your Raspberry Pi's package list is up-to-date:**
    ```bash
    sudo apt update
    sudo apt upgrade
    ```
-2. Install Python3 and venv <br>
+2. **Install Python3 and venv** <br>
 This will allow you to create your virtual enviroments.
 ```bash
 sudo apt install python3 python3-venv
 ```
-3. Create and Navigating to Your Virtual Environment <br>
+3.** Create and Navigating to Your Virtual Environment **<br>
 Navigate to the directory that you want your project to me located in.
 ```bash
 cd/path/to/project
 python3 -m venv myenv
 ```
-4. Activate the Virtual Environment <br>
+4. **Activate the Virtual Environment** <br>
 Run the command:
 ```bash
 source myenv/bin/activate
@@ -72,19 +72,19 @@ If you're already in your virtual environment directory file, you can just do:
 ```bash
 source bin/activate
 ```
-5. Install Dependencies/Libraries <br>
+5. **Install Dependencies/Libraries** <br>
 We've specified the required libraries [here](#setting-up-a-virtual-environment-on-raspberry-pi).
 Install these within your virtual environment.
-6. Retrieve Source Code <br>
+6. **Retrieve Source Code** <br>
 Run the ``git clone`` command in terminal using this repository.
-7. Running the Code in Virtual Environment <br>
+7. **Running the Code in Virtual Environment** <br>
 Run the command ``python code.py`` (or whatever your .py file is named). <br>
 **Note**: If you want to terminate your current run, you would have to close the terminal, then <br>
 reopen and navigate to where your virtual environment is located. Then, run ``source bin/activate``. <br>
 We apologize as we haven't implemented a fix for this!!!
 
-We hope you enjoy our project as we had a lot of fun implementing, experimenting, and playing around with <br>
-it.
+**We hope you enjoy our project as we had a lot of fun implementing, experimenting, and playing around with <br>
+it.**
 
 
 
