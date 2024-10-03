@@ -20,7 +20,11 @@ with the code due to constraints and limitations of different robotic arms)
 1. Python <br>
 ``pip install python`` OR <br>
 ``pip install python3`` (dependent on your OS)
-3.  OpenCV <br>
+2.  OpenCV <br>
 ``pip install opencv-python``
+3. xArm <br>
+``pip install xarm``
+**Note**: Run these installs via the terminal, then import these packages on the text editor you are utilizing.
+
 
 
