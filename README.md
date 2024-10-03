@@ -18,7 +18,7 @@ with the code due to constraints and limitations of different robotic arms)
 
 ### Required Libraries/Frameworks
 1. Python <br>
-``pip install python`` OR <br>
+```pip install python``` OR <br>
 ``pip install python3`` (dependent on your OS)
 2.  OpenCV <br>
 ``pip install opencv-python``
