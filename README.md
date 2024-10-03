@@ -10,6 +10,11 @@ Ethan Flores - https://www.linkedin.com/in/etflores1/ <br>
 **Head** (K-14 Director) <br>
 Saura Naderi - snaderi@ucsd.edu
 
+<img width="593" alt="Screenshot 2024-10-03 at 4 37 05 PM" src="https://github.com/user-attachments/assets/3791b4b1-c943-49f0-b69b-d83f30ba7793"> <br>
+<img width="1012" alt="Screenshot 2024-10-03 at 4 37 15 PM" src="https://github.com/user-attachments/assets/79ec4603-1000-4d43-b467-292831eee86b">
+
+
+
 ## How Does It Work?
 
 **Note**: Before getting this project to work, please read the [requirements](#requirements) below.
