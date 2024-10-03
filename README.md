@@ -59,6 +59,7 @@ source bin/activate
 5. Install Dependencies/Libraries
 We've specified the required libraries [here](#setting-up-a-virtual-environment-on-raspberry-pi).
 Install these within your virtual environment.
+6. Download 
 
 
 
